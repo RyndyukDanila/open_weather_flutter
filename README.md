@@ -34,7 +34,6 @@ This allows to map the data from the layer above to `AsyncValue` objects that ca
 - [freezed](https://pub.dev/packages/freezed) for code generation
 - [http](https://pub.dev/packages/http) for talking to the REST API
 - [cached_network_image](https://pub.dev/packages/cached_network_image) for caching images
-- [mocktail](https://pub.dev/packages/mocktail) for testing
 
 ## About the OpenStreetMap weather API
 
